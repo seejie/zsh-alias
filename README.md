@@ -9,6 +9,7 @@ alias py="Python"
 
 # git
 alias diff="git diff"
+
 alias stat="git status"
 alias back="git checkout HEAD ."
 alias pull="git pull"
@@ -24,6 +25,6 @@ alias build="npm run build"
 alias serve="npm run serve"
 alias head="git checkout HEAD"
 
-#Chrome跨域模式
+# Chrome跨域模式
 alias webky="open -n /Applications/Google\ Chrome.app/ --args --disable-web-security --user-data-dir=/Users/seejie/MyChromeDevUserData/"
 alias chrome="open -a /Applications/Google\ Chrome.app"
